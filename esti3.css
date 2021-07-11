@@ -1,0 +1,23 @@
+body {
+background-image: linear-gradient( to left,rgb(69,114,196),rgb(227,121,197));
+}
+header {
+border-radius: 25px;
+padding: 0px;
+background-image: linear-gradient( to left,rgb(69,114,196),rgb(227,121,197));
+}
+a {
+     background:rgb(150,190,230);
+    padding:10px 20px;
+    border-radius:45%; 
+    font-size:25px;
+    color:blue;
+    margin: 50px;
+    }
+img {
+border-radius: 999px;
+padding: 20px;
+background-image: linear-gradient( to right,rgb(120,200,228),rgb(41,243,123));
+}
+
+   

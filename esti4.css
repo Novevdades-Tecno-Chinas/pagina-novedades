@@ -1,0 +1,23 @@
+body {
+background-image: linear-gradient( to right,rgb(100,207,253),purple);
+padding: auto;
+}
+header {
+border-radius: 25px;
+padding: 20px;( to right,rgb(100,207,253),purple);
+}
+a {
+     background:rgb(150,190,230);
+    padding:10px 30px;
+    border-radius:45%; 
+    font-size:25px;
+    color:blue;
+    margin: 50px;
+    padding: auto;
+    }
+img {
+border-radius: 1000px;
+padding: 30px;
+background-image: linear-gradient( to right,rgb(100,27,253),pink);
+}
+

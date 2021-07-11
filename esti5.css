@@ -1,0 +1,10 @@
+
+  
+button {
+font-size: 40px;
+background-image: linear-gradient( to right,rgb(100,207,253),purple);
+}
+select {
+font-size: 20px;
+background-image: linear-gradient( to right,rgb(100,207,253),purple);
+}
